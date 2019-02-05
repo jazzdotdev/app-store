@@ -9,3 +9,5 @@ lighttouch-hello-world = "https://github.com/foundpatterns/lighttouch-hello-worl
 lua-module-map = "https://github.com/foundpatterns/lua-module-map"
 
 file-witness = "https://github.com/foundpatterns/file-witness"
+
+hello-world = "https://github.com/lighttouch-apps/hello-world"
