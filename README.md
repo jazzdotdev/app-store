@@ -8,6 +8,6 @@
 
 #### [Gut](https://github.com/foundpatterns/gut) · simple version control system
 
-#### [Lighttouch](https://github.com/foundpatterns/lighttouch) · application framework, for web development and much more
+#### [Flute](https://github.com/jazzdotdev/flute) · application framework, for web development and much more
 
 #### [Lua Module Map](https://github.com/foundpatterns/lua-module-map) · Rust/Lua code diagram visualization
